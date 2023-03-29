@@ -1,0 +1,26 @@
+﻿@page "/"
+
+@*one way databinding*@
+<h1>@Message</h1>
+<h2>@Regards()</h2>
+<button @onclick="UpdateMessage">Update</button>
+
+@*Two way databinding*@
+<h1>@OtherMessage</h1>
+<input @bind="@OtherMessage"/>
+
+@code {
+
+    private string Message { get; set; } = "Hello, Marxed";
+    private string OtherMessage { get; set; } = "Hello, Human";
+
+    private string Regards()
+    {
+        return "welcome to Blazor";
+    }
+
+    private void UpdateMessage()
+    {
+        Message = "Hello, Blazor!";
+    }
+}
