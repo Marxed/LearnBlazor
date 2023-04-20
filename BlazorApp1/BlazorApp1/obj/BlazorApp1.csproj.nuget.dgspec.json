@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeStudy\\LearnBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
+    "C:\\CodeStudy\\LearningBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
-    "C:\\CodeStudy\\LearnBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
+    "C:\\CodeStudy\\LearningBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeStudy\\LearnBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "projectUniqueName": "C:\\CodeStudy\\LearningBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "C:\\CodeStudy\\LearnBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "projectPath": "C:\\CodeStudy\\LearningBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
         "packagesPath": "C:\\Users\\marxe\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeStudy\\LearnBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\obj\\",
+        "outputPath": "C:\\CodeStudy\\LearningBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marxe\\AppData\\Roaming\\NuGet\\NuGet.Config",

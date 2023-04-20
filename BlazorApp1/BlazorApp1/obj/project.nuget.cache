@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vA217Mnyowwb2QM2LkCMqYRAiVkPKojR9Z6bCKeuVhiyrBSt0KGNU2G4fZ7hvjZ6gnA9B7GD8amZJdYOvGnLgg==",
+  "dgSpecHash": "0CuZjHygOTg0gwj+itmua0cSe/1tViah9UCD1J1qJyc/I4XYbfiOjh1LxUE9MTpWCTMJQ4QfvwwvWwrKNkqYtw==",
   "success": true,
-  "projectFilePath": "C:\\CodeStudy\\LearnBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "projectFilePath": "C:\\CodeStudy\\LearningBlazor\\LearnBlazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marxe\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.2\\microsoft.aspnetcore.authorization.7.0.2.nupkg.sha512",
     "C:\\Users\\marxe\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.2\\microsoft.aspnetcore.components.7.0.2.nupkg.sha512",
